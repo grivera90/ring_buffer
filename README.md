@@ -1,4 +1,4 @@
-# Buffer Circular
+# Ring Buffer
 
 Implementation of a circular buffer for embedded systems.
 
